@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Tablet",
+        "description": "Tablet samsung 120gb almacenamiento, camara 50mpx, android.",
+        "price": 35000,
+        "thumbnail": "",
+        "code": 1000432,
+        "stock": 23
+    },
+    {
+        "id": 2,
+        "title": "Telefono",
+        "description": "Telefono Moto E40 Plus, camara 50mpx, 64gb almacenamiento.",
+        "price": 60000,
+        "thumbnail": "",
+        "code": 534873,
+        "stock": 40
+    },
+    {
+        "id": 3,
+        "title": "TV",
+        "description": "TV lG 42' 4k smart TV",
+        "price": 130000,
+        "thumbnail": "",
+        "code": 6534222,
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "title": "TV 55",
+        "description": "TV Samsung 55 smart TV",
+        "price": 120000,
+        "thumbnail": "",
+        "code": 653443222,
+        "stock": 26
+    },
+    {
+        "id": 5,
+        "title": "Silla Gamer",
+        "description": "Silla Gamer reclinable de cuero, azul y roja con apoya brazos y apoya pies",
+        "price": 90000,
+        "thumbnail": "",
+        "code": 54752,
+        "stock": 50
+    },
+    {
+        "id": 6,
+        "title": "PS5",
+        "description": "Play Station 5 1TB con 2 joystick y 1 juego a eleccion.",
+        "price": 250000,
+        "thumbnail": "",
+        "code": 4593503,
+        "stock": 8
+    },
+    {
+        "id": 7,
+        "title": "PS4",
+        "description": "Play Station 4 500gb Slim con 1 joystick SONY",
+        "price": 150000,
+        "thumbnail": "",
+        "code": 111443,
+        "stock": 14
+    },
+    {
+        "id": 8,
+        "title": "GPS",
+        "description": "GPS Garmyn para rutas en todo el pais, facil de usar y con potencia hasta en el medio de la selva",
+        "price": 90000,
+        "thumbnail": "",
+        "code": 54363,
+        "stock": 3
+    },
+    {
+        "id": 9,
+        "title": "Joystick Sony PS3",
+        "description": "Joystick Sony para la Play Station 3 inalambrico edicion MESSI.",
+        "price": 15000,
+        "thumbnail": "",
+        "code": 547453,
+        "stock": 50
+    },
+    {
+        "id": 10,
+        "title": "FIFA 24",
+        "description": "Juego de PS4 FIFA 24 fisico sellado original.",
+        "price": 20000,
+        "thumbnail": "",
+        "code": 534543,
+        "stock": 100
+    }
+]
